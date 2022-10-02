@@ -156,10 +156,6 @@ body{
 }
 
 
-
-
-
-
 .cell.circle::after,
 .board.circle .cell:not(.circle):not(.x):hover::after{
     width: calc(var(--cell-width)*.65);
@@ -272,8 +268,6 @@ body{
        
     }
     
-    
-
     .intro >* input{
         border-radius: 5px;
         border: none;
